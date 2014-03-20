@@ -24,7 +24,7 @@
 
 -(void)viewDidLoad {
     [super viewDidLoad];
-    self.navigationItem.title = @"GraffitiDump";
+    self.navigationItem.title = @"Photolist";
     self.navigationItem.rightBarButtonItem = btnCompose;
     self.navigationItem.leftBarButtonItem = btnRefresh;
 	//show the photo stream
